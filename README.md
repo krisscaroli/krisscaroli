@@ -18,7 +18,7 @@
   📣 Connect With Me :<br/>
    <br>
 
-<a href="mailto:sdckrissminano@gmail.com?subject=[GitHub]%20🔥%20Want%20To%20contact&body=Good%20Morning%20Shabinder%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+<a href="mailto:sdckrissminano@gmail.com?subject=[GitHub]%20🔥%20Want%20To%20contact&body=Hello Kriss Miñano%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 <a href="https://www.instagram.com/kricaroly/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/kcarolinamr/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/kricaroli"><img src="https://img.shields.io/badge/twitter-0077B5.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
