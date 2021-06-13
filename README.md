@@ -15,7 +15,7 @@ https://iamkriss.netlify.app/
 - 👫 I work with agile methodologies such as **Scrum**.
 
  <br>
-
+Mi blog: https://krisscaroli.github.io/MiBlog/
 <p>
   📣 Connect With Me :<br/>
    <br>
