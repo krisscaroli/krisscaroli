@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kriss Miñano</h1>
 <h3 align="center">A self-taught dedicated developer 💁 </h3>
 
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/kricaroli?label=carolina&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/krisscaroli?logo=GitHub&style=for-the-badge)
 
 #### About me 😃
+https://iamkriss.netlify.app/
 
 - 🌱 I’m currently learning **Java, Spring Boot, ReactJS, Python**.
 
